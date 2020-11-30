@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CatsOwnerManual</string>
+    <string-array name="chapters_names">
+        <item>Начало</item>
+        <item>Чем кормить кота</item>
+        <item>Как гладить кота</item>
+        <item>Как спит кот</item>
+        <item>Как играть с котом</item>
+        <item>Интересные факты</item>
+        <item>Как назвать кота</item>
+    </string-array>
+</resources>
